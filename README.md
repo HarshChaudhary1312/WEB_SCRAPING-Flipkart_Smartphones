@@ -56,9 +56,6 @@ You can use this data to perform various analyses, such as:
 - Analyzing the price distribution of smartphones.
 - Comparing features and prices of different smartphones.
 
-## Challenges
-
-Web scraping from a dynamic website like Flipkart requires a good understanding of HTML structure and data extraction techniques. Handling potential issues such as pagination, JavaScript-loaded content, and request rate limits are crucial for successful data extraction.
 
 ## Contributing
 
