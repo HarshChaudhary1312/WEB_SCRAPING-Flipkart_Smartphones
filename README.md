@@ -1,5 +1,5 @@
 # Flipkart Smartphone Web Scraping Project
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmjlBUmon3iCgwQAslByhkZO9V9qReGkqgw&s" height="300">
 ## Project Overview
 
 This project focuses on extracting data about top smartphones available on Flipkart using web scraping techniques. The data extracted includes product names, descriptions, prices, and ratings, which are stored in a CSV file for further data analysis. The project demonstrates the use of Python modules like BeautifulSoup and requests to navigate and scrape data from a website.
